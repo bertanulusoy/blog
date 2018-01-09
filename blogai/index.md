@@ -4,4 +4,3 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-This is a blog for Artificial Intelligence!
